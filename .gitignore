@@ -1,0 +1,13 @@
+data/
+*.csv
+*.json
+*.sqlite
+*.db
+.env
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.codex/
+.codex
